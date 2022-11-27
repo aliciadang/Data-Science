@@ -6,4 +6,6 @@
   <li>Predict Arizona type 2 diabetes status</li>
   <li>Predict the number of people admitted to American College</li>
   <li>IMDB Movie Recommender System</li>
+  <li>Image classificatiom</li>
+  <li>Text classification</li>
 </ul>
