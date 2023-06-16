@@ -1,4 +1,4 @@
-<h1>PT FUNiX Data Science Professional Certificate</h1>
+<h1>Data Science Professional Certificate</h1>
 <h4>This repo contains all of my assignments from the courses in the FPT FUNiX Data Science Certificate:</h4>
 <ul>
   <li>Analyze COVID 19 data</li>
